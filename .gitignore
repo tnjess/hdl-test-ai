@@ -1,0 +1,11 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Generated files
+generated_testbenches/
+outputs/
+
+# Virtual environments
+.venv/
+venv/
